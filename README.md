@@ -11,4 +11,4 @@ Sou uma pessoa curiosa e determinada, sempre à procura de aprender e crescer, t
 Currículo in [pdf]()
 
 ##Índice
-- [Sobre Mim](
+- [Sobre Mim](https://github.com/TGSilva10/Date_Analyst_Portfolio/blob/main/README.md)
