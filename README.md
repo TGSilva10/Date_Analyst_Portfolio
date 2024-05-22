@@ -15,28 +15,55 @@ Currículo in [pdf]()
 - [Portefolio de Projetos](https://github.com/TGSilva10/Portfolio-de-Projetos)
 
     - SQL
+      -
+      -
     - PYTON
+      -
+      -
     - R
- 
-    - 
+      -
+      -
+    -EXCEL
+    -POWER BI
+    TABLEAU
+
 - [Educação](https://github.com/TGSilva10/Date_Analyst_Portfolio/blob/main/README.md#Educação)  
-- [Certificados]
-- [Contacto]
+- [Certificados](https://github.com/TGSilva10/Date_Analyst_Portfolio/blob/main/README.md#Certificados)
+- [Contacto](https://github.com/TGSilva10/Date_Analyst_Portfolio/blob/main/README.md#Contacto)
 
 ## Portfolio Projects
 
+SADASD
+SADASD
+ASDAS
+AS
+D
+D
+AS
+ASDASDAS~~AS
+ASDAS
+SAD
+AS
+D
+ASD
+A
+SADAS
+ASD
+ASD
+AS
+D
+ASD
+AS
+D
+AS
+D
+ASDS
+AD
+ASD
+AS
+D
 
-
-
-
-
-
-
-
-
-
-
-
+AS
 
 - Educação
     - 12º ano Dona Maria II, Braga (Ciências Socioeconómicas) (SET 2017 - JUN 2020)
