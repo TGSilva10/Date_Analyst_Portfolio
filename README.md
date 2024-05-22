@@ -27,17 +27,17 @@ Currículo in [pdf]()
     - TABLEAU 
    
 
-- [Educação](https://github.com/TGSilva10/Date_Analyst_Portfolio/blob/main/README.md#Eeducação)  
+- [Educação](https://github.com/TGSilva10/Date_Analyst_Portfolio/blob/main/README.md#Educação)  
 - [Certificados](https://github.com/TGSilva10/Date_Analyst_Portfolio/blob/main/README.md#certificados)
-- [Contacto](https://github.com/TGSilva10/Date_Analyst_Portfolio/blob/main/README.md#contacto)
+- [Contacto](https://github.com/TGSilva10/Date_Analyst_Portfolio/blob/main/README.md#Contacto)
 
 ## Portfolio Projects
 
 
 
 ## Educação
-    - 12º ano Dona Maria II, Braga (Ciências Socioeconómicas) (SET 2017 - JUN 2020)
+12º ano Dona Maria II, Braga (Ciências Socioeconómicas) (SET 2017 - JUN 2020)
 ## Certificados
-    - Analise de Dados (Maio 24) (TuturialsPoint)
-    - Formação Cientista de Dados (Junho 24) (Udemy)
+Analise de Dados (Maio 24) (TuturialsPoint)
+Formação Cientista de Dados (Junho 24) (Udemy)
 ## Contacto
