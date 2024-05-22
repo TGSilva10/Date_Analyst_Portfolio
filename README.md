@@ -20,4 +20,5 @@ Currículo in [pdf]()
 
 - Educação
 - Certificados
+    - Analise de Dados (MAIO 24) (TuturialsPoint) 
 - Contacto
