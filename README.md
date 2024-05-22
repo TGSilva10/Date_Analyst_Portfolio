@@ -13,18 +13,20 @@ Currículo in [pdf]()
 ##Índice
 - [Sobre Mim](https://github.com/TGSilva10/Date_Analyst_Portfolio/blob/main/README.md)
 - [Portefolio de Projetos](https://github.com/TGSilva10/Portfolio-de-Projetos)
-
+    
     - SQL
       
     - PYTON
+      
      
     - R
-     
+      
     -EXCEL
-  
+
     -POWER BI
   
-    -TABLEAU
+    -TABLEAU 
+   
 
 - [Educação](https://github.com/TGSilva10/Date_Analyst_Portfolio/blob/main/README.md#Eeducação)  
 - [Certificados](https://github.com/TGSilva10/Date_Analyst_Portfolio/blob/main/README.md#certificados)
