@@ -31,7 +31,7 @@ Currículo in [pdf]()
 - [Certificados](https://github.com/TGSilva10/Date_Analyst_Portfolio/blob/main/README.md#certificados)
 - [Contacto](https://github.com/TGSilva10/Date_Analyst_Portfolio/blob/main/README.md#Contacto)
 
-## Portfolio Projects
+## Portfolio de Projetos
 
 
 
