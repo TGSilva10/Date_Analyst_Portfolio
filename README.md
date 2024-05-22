@@ -15,16 +15,15 @@ Currículo in [pdf]()
 - [Portefolio de Projetos](https://github.com/TGSilva10/Portfolio-de-Projetos)
 
     - SQL
-      -
-      -
+      
     - PYTON
-      -
-      -
+     
     - R
-      -
-      -
+     
     -EXCEL
+  
     -POWER BI
+  
     -TABLEAU
 
 - [Educação](https://github.com/TGSilva10/Date_Analyst_Portfolio/blob/main/README.md#Eeducação)  
