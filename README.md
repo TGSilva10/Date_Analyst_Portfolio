@@ -17,6 +17,26 @@ Currículo in [pdf]()
     - SQL
     - PYTON
     - R
+ 
+    - 
+- [Educação](https://github.com/TGSilva10/Date_Analyst_Portfolio/blob/main/README.md#Educação)  
+- [Certificados]
+- [Contacto]
+
+## Portfolio Projects
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 - Educação
     - 12º ano Dona Maria II, Braga (Ciências Socioeconómicas) (SET 2017 - JUN 2020)
