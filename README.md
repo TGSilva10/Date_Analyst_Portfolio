@@ -38,6 +38,6 @@ Currículo in [pdf]()
 ## Educação
 12º ano Dona Maria II, Braga (Ciências Socioeconómicas) (SET 2017 - JUN 2020)
 ## Certificados
-Analise de Dados (Maio 24) (TuturialsPoint)
-Formação Cientista de Dados (Junho 24) (Udemy)
+- [Analise de Dados] (Maio 24) (TuturialsPoint)
+- [Formação Cientista de Dados] (Junho 24) (Udemy)
 ## Contacto
