@@ -43,3 +43,5 @@ Currículo in [pdf]()
 [DATA SCIENCE 101](https://courses.yl-ptech.skillsnetwork.site/certificates/61c5d5118e4942f384286314f3c92f3b)
 
 ## Contacto
+- LinkedIn: [@tiagosilva](https://www.linkedin.com/in/tiago-silva-b755b8284/)
+- Email: tiagosilva1731@gmail.com
