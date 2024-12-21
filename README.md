@@ -18,13 +18,13 @@ Currículo in [pdf]()
       
     - PYTON
   
-    - R
+    - PYSPARK
   
     - EXCEL
       
     - POWER BI
       
-    - TABLEAU 
+      
    
 
 - [Educação](https://github.com/TGSilva10/Date_Analyst_Portfolio/blob/main/README.md#Educação)  
@@ -37,7 +37,8 @@ Currículo in [pdf]()
 
 ## Educação
 12º ano Dona Maria II, Braga (Ciências Socioeconómicas) (SET 2017 - JUN 2020)
+Curso Big Data: Análise de dados (TOKIO SCHOOL PORTUGAL) (JUN 2024 - NOV 2024)
+
 ## Certificados
-- [Analise de Dados] (Maio 24) (TuturialsPoint)
-- [Formação Cientista de Dados] (Junho 24) (Udemy)
+DATA SCIENCE 101 (https://courses.yl-ptech.skillsnetwork.site/certificates/61c5d5118e4942f384286314f3c92f3b)
 ## Contacto
