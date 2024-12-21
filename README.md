@@ -40,6 +40,6 @@ Currículo in [pdf]()
 - Curso Big Data: Análise de dados (TOKIO SCHOOL PORTUGAL) (JUN 2024 - NOV 2024)
 
 ## Certificados
-DATA SCIENCE 101 (https://courses.yl-ptech.skillsnetwork.site/certificates/61c5d5118e4942f384286314f3c92f3b)
+[DATA SCIENCE 101](https://courses.yl-ptech.skillsnetwork.site/certificates/61c5d5118e4942f384286314f3c92f3b)
 
 ## Contacto
