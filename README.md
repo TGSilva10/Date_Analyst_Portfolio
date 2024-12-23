@@ -18,7 +18,7 @@ Currículo in [pdf](https://github.com/TGSilva10/Date_Analyst_Portfolio/blob/mai
 - [Contacto](https://github.com/TGSilva10/Date_Analyst_Portfolio/blob/main/README.md#Contacto)
 
 ## Portfolio de Projetos
--[Projeto Final do Curso](https://github.com/TGSilva10/Date_Analyst_Portfolio/blob/main/Projeto_Bigdata_Tiago_Goncalves_Silva.zip)
+- [Projeto Final do Curso](https://github.com/TGSilva10/Date_Analyst_Portfolio/blob/main/Projeto_Bigdata_Tiago_Goncalves_Silva.zip)
 
 
 ## Educação
