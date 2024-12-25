@@ -10,17 +10,6 @@ Sou uma pessoa curiosa e determinada, sempre à procura de aprender e crescer, t
 
 Currículo in [pdf](https://github.com/TGSilva10/Date_Analyst_Portfolio/blob/main/CV_Tiago.pdf)
 
-## Índice
-- [Sobre Mim](https://github.com/TGSilva10/Date_Analyst_Portfolio/blob/main/README.md)
-- [Portefolio de Projetos](https://github.com/TGSilva10/Portfolio-de-Projetos)
-- [Educação](https://github.com/TGSilva10/Date_Analyst_Portfolio/blob/main/README.md#Educação)  
-- [Certificados](https://github.com/TGSilva10/Date_Analyst_Portfolio/blob/main/README.md#certificados)
-- [Contacto](https://github.com/TGSilva10/Date_Analyst_Portfolio/blob/main/README.md#Contacto)
-
-## Portfolio de Projetos
-- [Projeto Final do Curso](https://github.com/TGSilva10/Date_Analyst_Portfolio/blob/main/Projeto_Bigdata_Tiago_Goncalves_Silva.zip)
-
-
 ## Educação
 - 12º ano Dona Maria II, Braga (Ciências Socioeconómicas) (SET 2017 - JUN 2020)
 - Curso Big Data: Análise de dados (TOKIO SCHOOL PORTUGAL) (JUN 2024 - NOV 2024)
