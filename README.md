@@ -1,33 +1,33 @@
 # Tiago Silva - Date_Analyst_Portfolio
-## Sobre Mim 
-O meu nome é Tiago Silva, tenho 22 anos e resido em Braga, Portugal. Concluí o 12º ano de escolaridade na área de Ciências Socioeconómicas, onde desenvolvi uma forte base de conhecimentos em economia, sociologia e matemática aplicada. Atualmente, trabalho como operador de loja no Continente Nova Arcada, onde sou responsável por garantir a satisfação dos clientes através de um serviço eficiente e amigável.
+## About Me
+My name is Tiago Silva, I am 22 years old, and I live in Braga, Portugal. I completed high school with a focus on Socioeconomic Sciences, where I developed a strong foundation in economics, sociology, and applied mathematics. Currently, I work as a store operator at Continente Nova Arcada, where I am responsible for ensuring customer satisfaction through efficient and friendly service.
 
-Apesar de gostar do meu trabalho atual, a minha verdadeira paixão reside na tecnologia. Desde cedo, fui fascinado pelo potencial inovador dos gadgets e das novas ferramentas digitais. Esta paixão levou-me a investir na minha formação contínua, e atualmente estou a frequentar cursos de análise de dados. Acredito que a capacidade de interpretar e utilizar dados de forma eficaz é uma competência crucial no mundo moderno, e estou empenhado em desenvolver as minhas habilidades nesta área.
+Although I enjoy my current job, my true passion lies in technology. From a young age, I have been fascinated by the innovative potential of gadgets and new digital tools. This passion led me to invest in continuous learning, and I am currently taking courses in data analysis. I believe that the ability to interpret and effectively use data is a crucial skill in the modern world, and I am committed to developing my expertise in this field.
 
-Nos meus tempos livres, gosto de jogar PlayStation, sair com os amigos e jogar futebol. Valorizo muito o tempo passado em convívio à mesa com amigos e família, momentos que considero essenciais para fortalecer os laços e criar memórias duradouras.
+In my free time, I enjoy playing PlayStation, hanging out with friends, and playing football. I greatly value time spent around the table with friends and family, as I consider these moments essential for strengthening bonds and creating lasting memories.
 
-Sou uma pessoa curiosa e determinada, sempre à procura de aprender e crescer, tanto a nível pessoal como profissional. O meu objetivo é, no futuro, integrar uma equipa na área de tecnologia, onde possa aplicar os meus conhecimentos em análise de dados e contribuir para o desenvolvimento de soluções inovadoras.
+I am a curious and determined person, always seeking to learn and grow, both personally and professionally. My goal is to join a technology team in the future, where I can apply my data analysis knowledge and contribute to the development of innovative solutions.
 
-Currículo in [pdf](https://github.com/TGSilva10/Date_Analyst_Portfolio/blob/main/CV_TiagoSilva.pdf)
+CV in [pdf](https://github.com/TGSilva10/Date_Analyst_Portfolio/blob/main/CV_TiagoSilva.pdf)
 
 [Project Portfolio](https://www.datascienceportfol.io/tiagosilva173)
 
 ## Table of Contents
-- [Sobre Min](https://github.com/TGSilva10/Date_Analyst_Portfolio/blob/main/README.md#Sobre-Mim)
+- [About Me](https://github.com/TGSilva10/Date_Analyst_Portfolio/blob/main/README.md#AboutMe)
   
 - [Projects](https://github.com/TGSilva10/Date_Analyst_Portfolio/blob/main/README.md#Projects)
   
-- [Educação](https://github.com/TGSilva10/Date_Analyst_Portfolio/blob/main/README.md#Educação)
+- [Education](https://github.com/TGSilva10/Date_Analyst_Portfolio/blob/main/README.md#Education)
   
-- [Certificates](https://github.com/TGSilva10/Date_Analyst_Portfolio/blob/main/README.md#Certificados)
+- [Certificates](https://github.com/TGSilva10/Date_Analyst_Portfolio/blob/main/README.md#Certificates)
   
-- [Contact](https://github.com/TGSilva10/Date_Analyst_Portfolio/blob/main/README.md#Contacto)
+- [Contact](https://github.com/TGSilva10/Date_Analyst_Portfolio/blob/main/README.md#Contact)
 
-## Educação
+## Education
 - 12º ano Dona Maria II, Braga (Ciências Socioeconómicas) (SET 2017 - JUN 2020)
 - Curso Big Data: Análise de dados (TOKIO SCHOOL PORTUGAL) (JUN 2024 - NOV 2024)
 
-## Certificados
+## Certificates
 [DATA SCIENCE 101](https://courses.yl-ptech.skillsnetwork.site/certificates/61c5d5118e4942f384286314f3c92f3b)
 
 [SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/X5YYEXKWZ6B9)
@@ -43,6 +43,16 @@ Currículo in [pdf](https://github.com/TGSilva10/Date_Analyst_Portfolio/blob/mai
 **Skills:** Data Preprocessing and Cleaning, Exploratory Data Analysis (EDA), Correlation and Statistical Analysis, Machine Learning (Multiple Linear Regression), PySpark and SQL
 
 **Technology:** PySpark, Jupyter Notebook & Google Colab, DB Browser for SQLite, CSV and Excel for data handling
+
+### Project Portfolio for Formula 1 Data Analysis
+**Code:** [`F1 Data Analysis`](https://github.com/TGSilva10/F1_Data_Analysis)
+**Goal:** Analyze Formula 1 race data to identify performance trends, driver comparisons, and historical race patterns, providing insights to enhance understanding of race outcomes and key performance factors.
+
+**Description:** The project processes large datasets related to Formula 1 using SQL and Python-based visualizations. Key steps include data cleaning, exploratory analysis, and the creation of visual reports to compare drivers, teams, and race trends across seasons.
+
+**Skills:** Data Preprocessing and Cleaning: Handling missing data, duplicates, and formatting inconsistencies, Exploratory Data Analysis (EDA): Generating descriptive statistics for key metrics (e.g., lap times, positions, point standings), Correlation and Statistical Analysis: Identifying key factors influencing race outcomes, Data Visualization: Creating plots to visualize race results, driver performance, and lap comparisons, SQL Queries and Database Management: Querying large datasets for specific statistics.
+**Technology:**
+SQL and DB Management Tools: DB Browser for SQLite, .sqbpro database files, Python: Jupyter Notebooks for interactive data exploration, Visualization Libraries: Matplotlib, Seaborn for race performance insights, Data Sources: CSV and SQL databases related to Formula 1 race results
 
 ### Covid Analysis
 **Code:**[`Covid_Analysis`](https://github.com/TGSilva10/Covid_Analysis/tree/main)
@@ -66,6 +76,6 @@ Currículo in [pdf](https://github.com/TGSilva10/Date_Analyst_Portfolio/blob/mai
 
 **Technology:** Python (Jupyter Notebook), Pandas, Matplotlib, Seaborn, CSV Data Sources
 
-## Contacto
+## Contact
 - LinkedIn: [@tiagosilva](https://www.linkedin.com/in/tiago-silva-b755b8284/)
 - Email: tiagosilva1731@gmail.com
