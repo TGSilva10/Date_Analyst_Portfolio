@@ -42,6 +42,17 @@ Currículo in [pdf](https://github.com/TGSilva10/Date_Analyst_Portfolio/blob/mai
 
 **Technology:** SQL (Structured Query Language), Database Management Systems 
 
+### Movie Analysis
+**Code:**[`Movie_Analysis`](https://github.com/TGSilva10/Movie_Analysis)
+
+**Goal:** Analyze movie-related data to identify trends, ratings, and correlations, providing insights into audience preferences and movie performance.
+
+**Description:** The project utilizes Python to process and visualize movie data, performing tasks such as data cleaning, descriptive analysis, and generating visual reports to highlight key insights on genres, ratings, and trends.
+
+**Skills:** Data Cleaning and Preprocessing, Exploratory Data Analysis (EDA), Visualization with Python Libraries (Matplotlib, Seaborn), Correlation and Statistical Insights
+
+**Technology:** Python (Jupyter Notebook), Pandas, Matplotlib, Seaborn, CSV Data Sources
+
 ## Contacto
 - LinkedIn: [@tiagosilva](https://www.linkedin.com/in/tiago-silva-b755b8284/)
 - Email: tiagosilva1731@gmail.com
