@@ -20,6 +20,7 @@ Currículo in [pdf](https://github.com/TGSilva10/Date_Analyst_Portfolio/blob/mai
 [SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/X5YYEXKWZ6B9)
 
 ## Projects
+[Final Project of the Big Data Course](https://github.com/TGSilva10/Big_Data_PF)
 
 ## Contacto
 - LinkedIn: [@tiagosilva](https://www.linkedin.com/in/tiago-silva-b755b8284/)
