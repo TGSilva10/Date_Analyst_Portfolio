@@ -44,7 +44,7 @@ CV in [pdf](https://github.com/TGSilva10/Date_Analyst_Portfolio/blob/main/CV_Tia
 
 **Technology:** PySpark, Jupyter Notebook & Google Colab, DB Browser for SQLite, CSV and Excel for data handling
 
-### Project Portfolio for Formula 1 Data Analysis
+### Formula 1 Data Analysis
 **Code:** [`F1 Data Analysis`](https://github.com/TGSilva10/F1_Data_Analysis)
 
 **Goal:** Analyze Formula 1 race data to identify performance trends, driver comparisons, and historical race patterns, providing insights to enhance understanding of race outcomes and key performance factors.
@@ -52,8 +52,8 @@ CV in [pdf](https://github.com/TGSilva10/Date_Analyst_Portfolio/blob/main/CV_Tia
 **Description:** The project processes large datasets related to Formula 1 using SQL and Python-based visualizations. Key steps include data cleaning, exploratory analysis, and the creation of visual reports to compare drivers, teams, and race trends across seasons.
 
 **Skills:** Data Preprocessing and Cleaning: Handling missing data, duplicates, and formatting inconsistencies, Exploratory Data Analysis (EDA): Generating descriptive statistics for key metrics (e.g., lap times, positions, point standings), Correlation and Statistical Analysis: Identifying key factors influencing race outcomes, Data Visualization: Creating plots to visualize race results, driver performance, and lap comparisons, SQL Queries and Database Management: Querying large datasets for specific statistics.
-**Technology:**
-SQL and DB Management Tools: DB Browser for SQLite, .sqbpro database files, Python: Jupyter Notebooks for interactive data exploration, Visualization Libraries: Matplotlib, Seaborn for race performance insights, Data Sources: CSV and SQL databases related to Formula 1 race results
+
+**Technology:** SQL and DB Management Tools: DB Browser for SQLite, .sqbpro database files, Python: Jupyter Notebooks for interactive data exploration, Visualization Libraries: Matplotlib, Seaborn for race performance insights, Data Sources: CSV and SQL databases related to Formula 1 race results
 
 ### Covid Analysis
 **Code:**[`Covid_Analysis`](https://github.com/TGSilva10/Covid_Analysis/tree/main)
