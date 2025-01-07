@@ -16,6 +16,7 @@ Currículo in [pdf](https://github.com/TGSilva10/Date_Analyst_Portfolio/blob/mai
 
 ## Certificados
 [DATA SCIENCE 101](https://courses.yl-ptech.skillsnetwork.site/certificates/61c5d5118e4942f384286314f3c92f3b)
+
 [SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/X5YYEXKWZ6B9)
 
 ## Projects
