@@ -8,7 +8,7 @@ Nos meus tempos livres, gosto de jogar PlayStation, sair com os amigos e jogar f
 
 Sou uma pessoa curiosa e determinada, sempre à procura de aprender e crescer, tanto a nível pessoal como profissional. O meu objetivo é, no futuro, integrar uma equipa na área de tecnologia, onde possa aplicar os meus conhecimentos em análise de dados e contribuir para o desenvolvimento de soluções inovadoras.
 
-Currículo in [pdf](https://github.com/TGSilva10/Date_Analyst_Portfolio/blob/main/CV_Tiago.pdf)
+Currículo in [pdf](https://github.com/TGSilva10/Date_Analyst_Portfolio/blob/main/CV_TiagoSilva.pdf)
 
 [Project Portfolio](https://www.datascienceportfol.io/tiagosilva173)
 
