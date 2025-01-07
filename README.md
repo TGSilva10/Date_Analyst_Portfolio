@@ -20,16 +20,16 @@ Currículo in [pdf](https://github.com/TGSilva10/Date_Analyst_Portfolio/blob/mai
 [SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/X5YYEXKWZ6B9)
 
 ## Projects
-[Final Project of the Big Data Course]
-Code:(https://github.com/TGSilva10/Big_Data_PF)
+## Final Project of the Big Data Course
+**Code:**[`Final Project of the Big Data Course`](https://github.com/TGSilva10/Big_Data_PF)
 
-Goal: Analyze air traffic data from San Francisco International Airport, focusing on flights to Japan, to identify passenger patterns and support Tokio School Viagens in optimizing services and marketing strategies.
+**Goal:** Analyze air traffic data from San Francisco International Airport, focusing on flights to Japan, to identify passenger patterns and support Tokio School Viagens in optimizing services and marketing strategies.
 
-Description: The project processes a large dataset of passenger statistics using PySpark. Key steps include data cleaning, descriptive analysis, correlation matrix construction, and the application of machine learning algorithms for predictive insights.
+**Description:** The project processes a large dataset of passenger statistics using PySpark. Key steps include data cleaning, descriptive analysis, correlation matrix construction, and the application of machine learning algorithms for predictive insights.
 
-Skills: Data Preprocessing and Cleaning, Exploratory Data Analysis (EDA), Correlation and Statistical Analysis, Machine Learning (Multiple Linear Regression), PySpark and SQL
+**Skills:** Data Preprocessing and Cleaning, Exploratory Data Analysis (EDA), Correlation and Statistical Analysis, Machine Learning (Multiple Linear Regression), PySpark and SQL
 
-Technology: PySpark, Jupyter Notebook & Google Colab, DB Browser for SQLite, CSV and Excel for data handling
+**Technology:** PySpark, Jupyter Notebook & Google Colab, DB Browser for SQLite, CSV and Excel for data handling
 
 ## Contacto
 - LinkedIn: [@tiagosilva](https://www.linkedin.com/in/tiago-silva-b755b8284/)
