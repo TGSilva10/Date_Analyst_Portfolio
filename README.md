@@ -10,7 +10,7 @@ Sou uma pessoa curiosa e determinada, sempre à procura de aprender e crescer, t
 
 Currículo in [pdf](https://github.com/TGSilva10/Date_Analyst_Portfolio/blob/main/CV_Tiago.pdf)
 
-[Portfolio](https://www.datascienceportfol.io/tiagosilva173)
+[Project Portfolio](https://www.datascienceportfol.io/tiagosilva173)
 
 ## Educação
 - 12º ano Dona Maria II, Braga (Ciências Socioeconómicas) (SET 2017 - JUN 2020)
