@@ -46,6 +46,7 @@ CV in [pdf](https://github.com/TGSilva10/Date_Analyst_Portfolio/blob/main/CV_Tia
 
 ### Project Portfolio for Formula 1 Data Analysis
 **Code:** [`F1 Data Analysis`](https://github.com/TGSilva10/F1_Data_Analysis)
+
 **Goal:** Analyze Formula 1 race data to identify performance trends, driver comparisons, and historical race patterns, providing insights to enhance understanding of race outcomes and key performance factors.
 
 **Description:** The project processes large datasets related to Formula 1 using SQL and Python-based visualizations. Key steps include data cleaning, exploratory analysis, and the creation of visual reports to compare drivers, teams, and race trends across seasons.
