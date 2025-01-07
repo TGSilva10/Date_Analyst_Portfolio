@@ -20,7 +20,7 @@ Currículo in [pdf](https://github.com/TGSilva10/Date_Analyst_Portfolio/blob/mai
 [SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/X5YYEXKWZ6B9)
 
 ## Projects
-## Final Project of the Big Data Course
+### Final Project of the Big Data Course
 **Code:**[`Final Project of the Big Data Course`](https://github.com/TGSilva10/Big_Data_PF)
 
 **Goal:** Analyze air traffic data from San Francisco International Airport, focusing on flights to Japan, to identify passenger patterns and support Tokio School Viagens in optimizing services and marketing strategies.
