@@ -31,6 +31,9 @@ Currículo in [pdf](https://github.com/TGSilva10/Date_Analyst_Portfolio/blob/mai
 
 **Technology:** PySpark, Jupyter Notebook & Google Colab, DB Browser for SQLite, CSV and Excel for data handling
 
+### Covid Analysis
+**Code:**[Covid_Analysis](https://github.com/TGSilva10/Covid_Analysis/tree/main)
+
 ## Contacto
 - LinkedIn: [@tiagosilva](https://www.linkedin.com/in/tiago-silva-b755b8284/)
 - Email: tiagosilva1731@gmail.com
