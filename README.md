@@ -32,7 +32,15 @@ Currículo in [pdf](https://github.com/TGSilva10/Date_Analyst_Portfolio/blob/mai
 **Technology:** PySpark, Jupyter Notebook & Google Colab, DB Browser for SQLite, CSV and Excel for data handling
 
 ### Covid Analysis
-**Code:**[Covid_Analysis](https://github.com/TGSilva10/Covid_Analysis/tree/main)
+**Code:**[`Covid_Analysis`](https://github.com/TGSilva10/Covid_Analysis/tree/main)
+
+**Goal:** Analyze COVID-19 data using SQL to gain insights into trends, cases, and patterns.
+
+**Description:** The project leverages SQL queries to clean, filter, and analyze COVID-19-related data, extracting key statistics such as confirmed cases, recoveries, and mortality rates across different regions and timeframes.
+
+**Skills:** SQL Query Optimization, Data Cleaning and Transformation, Aggregation and Filtering, Analytical Reporting
+
+**Technology:** SQL (Structured Query Language), Database Management Systems 
 
 ## Contacto
 - LinkedIn: [@tiagosilva](https://www.linkedin.com/in/tiago-silva-b755b8284/)
