@@ -13,11 +13,15 @@ Currículo in [pdf](https://github.com/TGSilva10/Date_Analyst_Portfolio/blob/mai
 [Project Portfolio](https://www.datascienceportfol.io/tiagosilva173)
 
 ## Table of Contents
-- [Sobre Min](https://github.com/TGSilva10/Date_Analyst_Portfolio/edit/main/README.md#Sobre-Min)
-- [Projects](https://github.com/TGSilva10/Date_Analyst_Portfolio/edit/main/README.md#Projects)
-- [Educação](https://github.com/TGSilva10/Date_Analyst_Portfolio/edit/main/README.md#Educação)  
-- [Certificates](https://github.com/TGSilva10/Date_Analyst_Portfolio/edit/main/README.md#Certificados)
-- [Contact](https://github.com/TGSilva10/Date_Analyst_Portfolio/edit/main/README.md#Contacto)
+- [Sobre Min](https://github.com/TGSilva10/Date_Analyst_Portfolio/blob/main/README.md#Sobre-Mim)
+  
+- [Projects](https://github.com/TGSilva10/Date_Analyst_Portfolio/blob/main/README.md#Projects)
+  
+- [Educação](https://github.com/TGSilva10/Date_Analyst_Portfolio/blob/main/README.md#Educação)
+  
+- [Certificates](https://github.com/TGSilva10/Date_Analyst_Portfolio/blob/main/README.md#Certificados)
+  
+- [Contact](https://github.com/TGSilva10/Date_Analyst_Portfolio/blob/main/README.md#Contacto)
 
 ## Educação
 - 12º ano Dona Maria II, Braga (Ciências Socioeconómicas) (SET 2017 - JUN 2020)
